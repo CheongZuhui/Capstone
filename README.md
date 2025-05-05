@@ -58,8 +58,8 @@ Model identified with lowest AIC: ARIMA(5,1,0)(1,0,1)[12], where p,d,q: (5,1,0) 
 
 ## Predicting air passenger traffic without COVID-19 & Recovery post-COVID
 ![image](https://github.com/user-attachments/assets/693e492e-de7d-41e7-8ba6-f837ad57bdfa)
-+ If there was no COVID-19 pandemic, air passenger numbers would continued to increase through the years
-+ Actual air passenger volume came close to predicted figure in Dec 2024, suggesting that air traffic at Changi Airport should be considered to have finally recovered after almost 4-5 years since COVID hit. In fact, comparing to 2019 figures, the no. of passengers handled in Dec 2024 was ~6.41 million which was the highest no. of passengers handled in any month before the COVID pandemic.
++ If there was no COVID-19 pandemic, air passenger numbers would have continued to increase through the years
++ Based on the plot, actual air passenger volume came close to predicted figure in Dec 2024. This suggests that air traffic at Changi Airport should be considered to have finally recovered after almost 4-5 years since COVID hit. In fact, comparing to pre-COVID figures, the no. of passengers handled in Dec 2024 was ~6.41 million which matches the highest no. of passengers handled in any month before the COVID pandemic.
 
 ## Recommendations
 To potentially capture more air passenger volume, Changi Airport may wish to consider the following:

@@ -36,7 +36,7 @@ Breakdown of numbers by regions showed that:
 + Passenger volume from North America and Middle East remained relatively low, with limited growth over the years
 
 ## Modelling
-Pre-COVID data (i.e. up till Dec 2019) was used to build a time-series forecasting model to predict total monthly air passenger volume.\
+Pre-COVID data (i.e. up till Dec 2019) was used to build a time-series forecasting model to predict total monthly air passenger volume.
 
 ### Model 1: Auto-ARIMA
 Model identified with lowest AIC: ARIMA (12,1,12) p=12, d=1 and q=12 
@@ -54,7 +54,7 @@ Model identified with lowest AIC: ARIMA(5,1,0)(1,0,1)[12], where p,d,q: (5,1,0) 
 + Mean Absolute Percentage Error (MAPE): ~6.2%
 + Root Mean Square Error (RMSE): approximately 385,000
 
-Based on the metrics, the Auto-ARIMA model gave us more accurate predictions.
+**Based on the metrics, the Auto-ARIMA model gave us more accurate predictions.**
 
 ## Predicting air passenger traffic without COVID-19 & Recovery post-COVID
 ![image](https://github.com/user-attachments/assets/693e492e-de7d-41e7-8ba6-f837ad57bdfa)

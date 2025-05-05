@@ -19,7 +19,7 @@ Air passenger traffic data is obtained from [SingStat](https://www.singstat.gov.
 + Air Passenger Departures By Region/Country Of Disembarkation, Monthly
 + Air Passenger Arrivals By Region/Country Of Embarkation, Monthly
 
-These datasets contains the number of passengers arriving, departing and transiting through Changi Airport, including breakdown by regions of embarkation/disembarkation. 
+These datasets contains the number of passengers arriving, departing and transiting through Changi Airport, including breakdown by regions of embarkation/disembarkation.\ 
 Note: The timeframe in the analysis is limited to Jan 1989 till date as we will only be focusing on Changi Airport.
 
 ## Summary of Exploratory Data Analysis

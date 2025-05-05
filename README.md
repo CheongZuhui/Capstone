@@ -1,4 +1,4 @@
-# Capstone
+# Capstone Project: Singapore air traffic forecasting
 This repository contains my capstone project on predicting air passenger volume at Changi Airport. 
 Being one of the busiest international airports in the world, Singapore Changi Airport continues to face challenges in ensuring there is sufficient capacity to meet rising demands while maintaining smooth operations and positive passenger experience to remain competitive. At the same time, it is also set to face competition from other regional air hubs for traveller and passenger traffic.
 

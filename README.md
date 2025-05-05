@@ -3,8 +3,8 @@ This repository contains my capstone project on predicting air passenger volume 
 Being one of the busiest international airports in the world, Singapore Changi Airport continues to face challenges in ensuring there is sufficient capacity to meet rising demands while maintaining smooth operations and positive passenger experience to remain competitive. At the same time, it is also set to face competition from other regional air hubs for traveller and passenger traffic.
 
 In view of these challenges, this project aims to:\
-(1) Analyse the trends/patterns of air passenger traffic at Changi Airport and identify any possible opportunities for growth
-(2) Predict how the number of air passengers will change in the future years in order to facilitate better resource planning
+(1) Analyse the trends/patterns of air passenger traffic at Changi Airport and identify any possible opportunities for growth\
+(2) Predict how the number of air passengers will change in the future years in order to facilitate better resource planning\
 (3) Use forecasting model to look at the recovery of air passenger volume post-COVID-19
 
 ## Questions we aim to answer
